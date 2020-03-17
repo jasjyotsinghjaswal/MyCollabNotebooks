@@ -1,0 +1,6 @@
+id	Segment
+1	a,b,c
+2	b,d
+3	e,a,c
+4	o,d,e
+5	p
